@@ -10,13 +10,6 @@
   <br>🔹 Algorithms
 <p>
 
-<!-- <div style="width:800px; margin:0 auto;"> -->
-<a href="https://github.com/jerskisnow" style="width: 100%">
-  	<img src="https://github-readme-stats.vercel.app/api?username=jerskisnow&show_icons=true&theme=radical" alt="" height="150px"/>
- 	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerskisnow&layout=compact&theme=radical" alt="" height="150px"/>
-</a>
-<!-- </div> -->
-
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
 <p align="left">
