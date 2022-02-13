@@ -4,11 +4,10 @@
 - 🌱 I’m currently studying **Cyber Security** and self-learning **(Neuro)Psychology**
 
 <h2>📜 Focused on</h2>
-<p>
-  🔹 Blockchain, Web3.0, Smart Contracts
-  <br>🔹 Cryptography
-  <br>🔹 Algorithms
-<p>
+
+- 🔹 Blockchain, Web3.0, Smart Contracts
+- 🔹 Cryptography
+- 🔹 Algorithms
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
