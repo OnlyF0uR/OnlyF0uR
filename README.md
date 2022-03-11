@@ -85,4 +85,5 @@
 <img src="https://hardhat.org/apple-touch-icon.png" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" height="30" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" />
 </p>
