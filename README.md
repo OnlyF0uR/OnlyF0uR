@@ -82,10 +82,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nginx/nginx-original.svg" height="30" />
 <img src="https://www.vectorlogo.zone/logos/torproject/torproject-icon.svg" height="30" />
 <img src="https://hardhat.org/apple-touch-icon.png" height="30" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fedora/fedora-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" height="30" />
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" />
 </p>
