@@ -1,6 +1,6 @@
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [codedsnow-contracts](https://github.com/CodedSnow/codedsnow-contracts)
+- 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
 - 🌱 I’m currently studying **Cyber Security** and self-learning **(Neuro)Psychology**
 
 <h2>📜 Focused on</h2>
