@@ -1,7 +1,7 @@
 <h2>👋 About me</h2>
 
 - 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
-- 🌱 I’m currently studying **Cyber Security** and self-learning **(Neuro)Psychology**
+- 🌱 I’m currently studying **Cyber Security** and doing research related to **Human Psychology**.
 
 <h2>📜 Focused on</h2>
 
