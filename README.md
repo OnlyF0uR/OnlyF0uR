@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
 - 🌱 I’m currently studying **Cyber Security** and conducting research related to **Human Psychology**.
 
-<h2>📜 Focused on</h2>
+<h2>📜 Specialised in</h2>
 
 - 🔹 Blockchain, Web3.0, Smart Contracts
 - 🔹 Cryptography
