@@ -7,8 +7,7 @@
 <h2>📜 Specialised in</h2>
 
 - 🔹 Blockchain, Web3.0, Smart Contracts
-- 🔹 Cryptography
-- 🔹 Algorithms
+- 🔹 Analytics
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
