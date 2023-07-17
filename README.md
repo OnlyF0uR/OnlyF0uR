@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
 - 🌱 I’m currently studying **Psychology & Law** while conducting research related to **Neurobiology**.
+- 🌹 8+ years of experience.
 
 <h2>📜 Specialised in</h2>
 
