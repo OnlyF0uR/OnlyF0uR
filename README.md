@@ -1,13 +1,14 @@
 <h2>👋 About me</h2>
 
 - 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
-- 🌱 I’m currently studying **Psychology & Law** while conducting research related to **Neurobiology**.
+- 🌱 I’m currently studying **Psychology** while conducting research related to **Neurobiology**.
 - 🌹 8+ years of experience.
 
 <h2>📜 Specialised in</h2>
 
 - 🔹 Blockchain, Web3.0, Smart Contracts
 - 🔹 Buisiness Analytics
+- 🔹 Sales. client acquisition & SMM
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
