@@ -8,7 +8,7 @@
 
 - 🔹 Blockchain, Web3.0, Smart Contracts
 - 🔹 Buisiness Analytics
-- 🔹 Sales. client acquisition & SMM
+- 🔹 Sales, client acquisition & SMM
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
