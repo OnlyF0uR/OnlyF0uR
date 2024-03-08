@@ -1,6 +1,6 @@
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec)
+- 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec).
 - 🌱 I’m currently studying **Psychology** while conducting research related to **Neurobiology**.
 - 🌹 Nearly a decade of experience.
 
