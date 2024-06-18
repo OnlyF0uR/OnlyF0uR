@@ -33,6 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/cecdde508abfe0e2459208c10df2efb28a2971b0/icons/file_type_light_solidity.svg" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/0aaa2fb430f95f63ba0b532cdf94899e5658f2b8/icons/zig/zig-original.svg"
 </p>
 
 <h4>Frameworks & Libraries</h4>
