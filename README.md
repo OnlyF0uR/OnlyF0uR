@@ -1,6 +1,6 @@
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [ClioSec](https://github.com/OnlyF0uR/ClioSec).
+- 🔭 I’m currently working on [Fleuros](https://fleurosagency.com/).
 - 🌱 I’m currently studying **Psychology** while conducting research in the field of **Neurobiology**.
 - 🌹 A decade of experience with Software Engineering.
 
