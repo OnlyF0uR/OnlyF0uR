@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Cesium](https://github.com/OnlyF0uR/cesium).
 - 🌱 I’m currently studying **Psychology** while conducting research in the field of **Theoretical Physics & Quantum Mechanics**.
-- 🌹 A decade of experience with Software Engineering.
+- 🌹 Over a decade of experience with Software Engineering.
 
 <h2>📜 Specialised in</h2>
 
