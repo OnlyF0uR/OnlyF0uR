@@ -1,7 +1,7 @@
 <h2>👋 About me</h2>
 
 - 🔭 I’m currently working on [Cesium](https://github.com/OnlyF0uR/cesium).
-- 🌱 I’m currently studying **Clinical Neuropsychology** while conducting research in the field of **Theoretical Physics & Quantum Mechanics**.
+- 🌱 I’m currently studying **Psychology** while conducting research in the field of **Theoretical Physics & Quantum Mechanics**.
 - 🌹 A decade of experience with Software Engineering.
 
 <h2>📜 Specialised in</h2>
