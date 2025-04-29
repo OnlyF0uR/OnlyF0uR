@@ -7,7 +7,8 @@
 <h2>📜 Specialised in</h2>
 
 - 🔹 Blockchain, Web3, Smart Contracts
-- 🔹 Cyber Security
+- 🔹 Cyber Security & Cryptography
+- 🔹 Sales, client acquisition, SMM
 - 🔹 Psychological Profiling
 
 <h2>🧰 Skills</h2>
