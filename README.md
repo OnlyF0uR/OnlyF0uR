@@ -8,7 +8,7 @@
 
 - 🔹 Blockchain, Web3, Smart Contracts
 - 🔹 Cyber Security
-- 🔹 Sales, client acquisition, and SMM
+- 🔹 Psychological Profiling
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
