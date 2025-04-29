@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying **Psychology** while conducting research in the field of **Theoretical Physics & Quantum Mechanics**.
 - 🌹 Over a decade of experience with Software Engineering.
 
-<h2>📜 Specialised in</h2>
+<h2>📜 Areas of Expertise</h2>
 
 - 🔹 Blockchain, Web3, Smart Contracts
 - 🔹 Cyber Security & Cryptography
