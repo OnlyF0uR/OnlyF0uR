@@ -35,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" height="30" />
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/cecdde508abfe0e2459208c10df2efb28a2971b0/icons/file_type_light_solidity.svg" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/0aaa2fb430f95f63ba0b532cdf94899e5658f2b8/icons/zig/zig-original.svg" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/0aaa2fb430f95f63ba0b532cdf94899e5658f2b8/icons/dart/dart-original.svg" height="30" />
 </p>
 
 <h4>Frameworks & Libraries</h4>
@@ -58,6 +59,7 @@
 <img src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" height="30" />
 <img src="https://www.vectorlogo.zone/logos/openssl/openssl-icon.svg" height="30" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/nativescript.svg" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/0aaa2fb430f95f63ba0b532cdf94899e5658f2b8/icons/flutter/flutter-original.svg" height="30" />
 </p>
 
 <h4>Databases</h4>
