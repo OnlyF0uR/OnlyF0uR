@@ -1,6 +1,6 @@
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [Luvarly](https://github.com/Luvarly).
+- 🔭 I’m currently working on [SereChat](https://serechat.com).
 - 🌱 I’m currently studying **Psychology** while conducting research in the field of **Artificial Intelligence**.
 - 🌹 Over a decade of experience with Software Engineering.
 
