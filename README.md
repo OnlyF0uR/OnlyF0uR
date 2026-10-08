@@ -1,7 +1,7 @@
 <h2>👋 About me</h2>
 
 - 🔭 Founder at [Luvarly](https://luvarly.com) and developing [SereChat](https://serechat.com).
-- 🌱 I’ve studied **Cyber Security** followed by a Bsc in **Psychology** specialised in **Clinical Neuroscience**.
+- 🌱 I’ve studied **Cyber Security** followed by a Bsc. in **Psychology** specialised in **Clinical Neuroscience**.
 - 🌹 Over a decade of experience with Software Engineering.
 
 <h2>📜 Areas of Expertise</h2>
