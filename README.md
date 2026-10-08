@@ -1,15 +1,15 @@
 <h2>👋 About me</h2>
 
-- 🔭 I’m currently working on [SereChat](https://serechat.com).
-- 🌱 I’m currently studying **Psychology** while conducting research in the field of **Artificial Intelligence**.
+- 🔭 Founder at [Luvarly](https://luvarly.com) and developing [SereChat](https://serechat.com).
+- 🌱 I’ve studied Cyber Security followed by a bachelor in **Psychology** specialised in Clinical Neuroscience.
 - 🌹 Over a decade of experience with Software Engineering.
 
 <h2>📜 Areas of Expertise</h2>
 
-- 🔹 Consciousness & (Recurrent) Artificial Neural Networks
+- 🔹 Web and mobile applications
+- 🔹 Artificial Intelligence
 - 🔹 Blockchain, Web3, Smart Contracts
 - 🔹 Cyber Security & (Post-quantum) Cryptography
-- 🔹 Psychological profiling & Sales
 
 <h2>🧰 Skills</h2>
 <h4>Languages</h4>
