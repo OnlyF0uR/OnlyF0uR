@@ -1,6 +1,6 @@
 <h2>👋 About me</h2>
 
-- 🔭 Founder at [Luvarly](https://luvarly.com) and developing [SereChat](https://serechat.com).
+- 🔭 Founder at [Luvarly](https://luvarly.com) and developing [AtroxaBot](https://atroxabot.com).
 - 🌱 I’ve studied **Cyber Security** followed by a Bsc. in **Psychology** specialised in **Clinical Neuroscience**.
 - 🌹 Over a decade of experience with Software Engineering.
 
